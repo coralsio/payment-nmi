@@ -6,7 +6,7 @@
   "description": "Network Merchant Payment Gateway",
   "namespace": "Corals\\Modules\\Payment\\Nmi",
   "version": "1.0",
-  "folder": "Nmi",
+  "folder": "payment-nmi",
   "autoload": "psr-4",
   "icon": "fa fa-credit-card",
   "require": {
